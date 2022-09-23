@@ -21,8 +21,5 @@ def to_datetime(df,col):
 
 
 if __name__ == '__main__':
-    df1 = pd.read_csv('../data/owid-covid-data.csv')
-    df2 = pd.read_csv('../data/acled_midterm.csv')
-    # print(df.info())
-    df1 = to_datetime(df, 'date')
-    # print(df1.info())
+    df = pd.read_csv('../data/owid-covid-data.csv')
+  

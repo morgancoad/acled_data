@@ -8,7 +8,9 @@ My second course of action was to determine if the increase/decrease of Covid-19
 ## Table of Contents 
 1. [Data](#data)
 2. [Exploratory Data Analysis](#exploratory-data-analysis)
-3. 
+    - [2019-2020](#2019-2020)
+    - [2020-2021](#2020-2021)
+    - [2021-2022](#2021-2022)
 
 # Data
 
